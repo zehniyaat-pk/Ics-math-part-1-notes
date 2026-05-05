@@ -1,7 +1,7 @@
 # Chapter 1: Number Systems
 
 ### 📥 Download PDF:
-**[ICS Math Part 1 - Chapter 1 Complete Solved Notes.pdf](./Chapter-01-Notes.pdf)**
+**[Download PDF](./ICS%20Math%20Part%201%20-%20Chapter%201%20Complete%20Solved%20Notes.pdf)**
 
 ### 📚 What's Covered:
 - Exercise 1.1 to 1.6 all questions solved
