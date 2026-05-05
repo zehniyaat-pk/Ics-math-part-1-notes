@@ -12,7 +12,7 @@
 ### 📥 Download Notes:
 Notes PDFs will be uploaded chapter-wise. Star ⭐ this repo to get notified.
 
-**Chapter 1: Number Systems** → `Coming this week`  
+**Chapter 1: Number Systems** → (./chapters/chapter-01-number-systems/ICS%20Math%20Part%201%20-%20Chapter%201%20Complete%20Solved%20Notes.pdf) 
 **Chapter 2: Sets, Functions & Groups** → `Coming soon`  
 **Chapter 3: Matrices & Determinants** → `Coming soon`
 
